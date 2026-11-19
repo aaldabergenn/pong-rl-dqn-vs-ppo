@@ -16,11 +16,16 @@ A deep reinforcement learning project that builds a custom **Pong environment** 
 - Produced learning curves, evaluation tables, and gameplay GIFs.
 
   
+
 ## Gameplay Demo
 
-<div align="center">
-  <img src="assets/pong-gameplay.gif" alt="Pong AI gameplay demonstration" width="600">
-</div>
+### Double DQN vs. PPO
+
+![Double DQN vs PPO](assets/dqn_vs_ppo.gif)
+
+### Double DQN vs. Scripted Bot
+
+![Double DQN vs Bot](assets/dqn_vs_bot.gif)
 
 
 ## Results
