@@ -15,6 +15,14 @@ A deep reinforcement learning project that builds a custom **Pong environment** 
 - Ran a 40-game head-to-head tournament between DQN and PPO.
 - Produced learning curves, evaluation tables, and gameplay GIFs.
 
+  
+## Gameplay Demo
+
+<div align="center">
+  <img src="assets/pong-gameplay.gif" alt="Pong AI gameplay demonstration" width="600">
+</div>
+
+
 ## Results
 
 In the recorded notebook run, Double DQN won **37 of 40** games against PPO (PPO won 3), with a mean score difference of **+3.35** in DQN's favor. These results are specific to this custom environment, training setup and run; they are not a general claim that DQN outperforms PPO.
